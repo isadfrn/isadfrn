@@ -4,7 +4,7 @@
 
 💡 Hello! I'm a Computer Science bachelor and a Software Engineer. Dedicated to continuously enhancing code quality and optimizing software performance.
 
-🌱 I am currently learning [Go](https://go.dev/) language and [Kotlin](https://kotlinlang.org/).
+🌱 I am currently learning [Go](https://go.dev/) and [Kotlin](https://kotlinlang.org/).
 
 ✉️ You can shoot me an [email](mailto:isadfrn@gmail.com) and I'll try to respond as soon as I can.
 
