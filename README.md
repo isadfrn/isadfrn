@@ -1,5 +1,3 @@
-## ![](./assets/img/cover.png)
-
 ### 👨🏻‍💻 About Me
 
 💡 Hello! I'm a Computer Science bachelor and a Software Engineer. Dedicated to continuously enhancing code quality and optimizing software performance.
